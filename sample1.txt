@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi checking git status
 
+=======
+Testing with Github
+>>>>>>> 31958c21790b51a153ba02c039b5d1c5a31543a7
